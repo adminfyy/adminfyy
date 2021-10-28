@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-- 😄looking for a good job.
-- trying to find some meaningful things
-- how to react me: 287732502@qq.com
 - 
+- Skill Stack: React/Typescript
+- 🌱 I’m currently learning how to write bug free code
+- 📫 How to react me: 287732502@qq.com
+- maintaining: r-sticky
+- 😄 Pronouns: I'm currently Looking for a Good job 💻.
 <!--
 **adminfyy/adminfyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
