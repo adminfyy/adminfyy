@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 
 - Skill Stack: React/Typescript
 - 🌱 I’m currently learning how to write bug free code
 - 📫 How to react me: 287732502@qq.com
