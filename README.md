@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 😄looking for a good job.
+- trying to find some meaningful things
+- how to react me: 287732502@qq.com
+- 
 <!--
 **adminfyy/adminfyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
