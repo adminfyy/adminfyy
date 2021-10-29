@@ -2,7 +2,7 @@
 
 - Skill Stack: React/TypeScript/Vue/Backbone/Git
 - 🌱 I’m currently learning how to write bug free code
-- 📫 How to react me: 287732502@qq.com
+- 📫 How to reach me: 287732502@qq.com
 - Maintainer: [r-sticky](https://www.npmjs.com/package/r-sticky)
 - 😄 Pronouns: I'm Currently Looking for a Good job 💻.
 <span>
